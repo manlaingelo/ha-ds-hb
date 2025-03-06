@@ -1,0 +1,1697 @@
+[
+  {
+    "district_code": "7",
+    "district_name": "Баянгол",
+    "aimag_name_mn": "Улаанбаатар"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Багахангай",
+    "aimag_name_mn": "Улаанбаатар"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Баянзүрх",
+    "aimag_name_mn": "Улаанбаатар"
+  },
+  {
+    "district_code": "01",
+    "district_name": "Багануур",
+    "aimag_name_mn": "Улаанбаатар"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Сонгинохайрхан",
+    "aimag_name_mn": "Улаанбаатар"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Налайх",
+    "aimag_name_mn": "Улаанбаатар"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Сүхбаатар",
+    "aimag_name_mn": "Улаанбаатар"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Чингэлтэй",
+    "aimag_name_mn": "Улаанбаатар"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Хан-Уул",
+    "aimag_name_mn": "Улаанбаатар"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Хэрлэн",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Баяндун",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Баянтүмэн",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Булган",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Гурванзагал",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Баян-Уул",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Дашбалбар",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Матад",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Сэргэлэн",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Баян-Өндөр",
+    "aimag_name_mn": "Орхон"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Жаргалант",
+    "aimag_name_mn": "Орхон"
+  },
+  {
+    "district_code": "01",
+    "district_name": "Дархан",
+    "aimag_name_mn": "Дархан-Уул"
+  },
+  {
+    "district_code": "04",
+    "district_name": "Орхон",
+    "aimag_name_mn": "Дархан-Уул"
+  },
+  {
+    "district_code": "07",
+    "district_name": "Хонгор",
+    "aimag_name_mn": "Дархан-Уул"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Шарын гол",
+    "aimag_name_mn": "Дархан-Уул"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Халхгол",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Хөлөнбуйр",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Цагаан-Овоо",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Баруун-Урт",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Чулуунхороот",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Чойбалсан",
+    "aimag_name_mn": "Дорнод"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Асгат",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Дарьганга",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Баяндэлгэр",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Онгон",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Мөнххаан",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Наран",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Хэрлэн",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Баян",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Баяндэлгэр",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Баянжаргалан",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Баян-Өнжүүл",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Баянхангай",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Баянцагаан",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Сүхбаатар",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Түвшинширээ",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Түмэнцогт",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Эрдэнэцагаан",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Халзан",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Уулбаян",
+    "aimag_name_mn": "Сүхбаатар"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Баянцогт",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Баянчандмань",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Борнуур",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Бүрэн",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Дэлгэрхаан",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Жаргалант",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "52",
+    "district_name": "Заамар",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Батноров",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Баянмөнх",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Баян-Овоо",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Баян-Адарга",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Батширээт",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Баянхутаг",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Биндэр",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Галшар",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Дадал",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Дэлгэрхаан",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Дархан",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Жаргалтхаан",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "55",
+    "district_name": "Лүн",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "58",
+    "district_name": "Мөнгөнморьт",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "61",
+    "district_name": "Өндөрширээт",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "64",
+    "district_name": "Сүмбэр",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "67",
+    "district_name": "Сэргэлэн",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "70",
+    "district_name": "Угтаалцайдам",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "73",
+    "district_name": "Цээл",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Мөрөн",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Норовлин",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Өмнөдэлгэр",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "52",
+    "district_name": "Бор-Өндөр",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Алтанбулаг",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Цэнхэрмандал",
+    "aimag_name_mn": "Хэнтий"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Зуунмод",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Аргалант",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Архуст",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Батсүмбэр",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Сүмбэр",
+    "aimag_name_mn": "Говьсүмбэр"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Баянтал",
+    "aimag_name_mn": "Говьсүмбэр"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Шивээговь",
+    "aimag_name_mn": "Говьсүмбэр"
+  },
+  {
+    "district_code": "76",
+    "district_name": "Эрдэнэ",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "79",
+    "district_name": "Эрдэнэсант",
+    "aimag_name_mn": "Төв"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Алтанбулаг",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Баянгол",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Орхон",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Сайхан",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Баян-Овоо",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Сүхбаатар",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Баруунбүрэн",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Баянгол",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Ерөө",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Жавхлант",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Зүүнбүрэн",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Баянзүрх",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Алтай",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Бугат",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Алтай",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Булган",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Чандмань",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "55",
+    "district_name": "Цагаанхайрхан",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Орхон",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Мандал",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Сайхан",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Орхонтуул",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Сант",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Түшиг",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Хушаат",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Хүдэр",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Цагааннуур",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Шаамар",
+    "aimag_name_mn": "Сэлэнгэ"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Айраг",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Сайншанд",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Даланжаргалан",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Алтанширээ",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Замын-Үүд",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Дэлгэрэх",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Иххэт",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Сайхандулаан",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Мандах",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Өргөн",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Улаанбадрах",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Хатанбулаг",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Эрдэнэ",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Хөвсгөл",
+    "aimag_name_mn": "Дорноговь"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Даланзадгад",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Баяндалай",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Баян-Овоо",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Булган",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Гурвантэс",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Мандал-Овоо",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Манлай",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Ноён",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Номгон",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Сэврэй",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Ханбогд",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Ханхонгор",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Хүрмэн",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Цогт-Овоо",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Сайнцагаан",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Цогтцэций",
+    "aimag_name_mn": "Өмнөговь"
+  },
+  {
+    "district_code": "04",
+    "district_name": "Адаацаг",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Баянжаргалан",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Говь-Угтаал",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Гурвансайхан",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Дэлгэрхангай",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Дэлгэрцогт",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Дэрэн",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Өлзийт",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Луус",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Өндөршил",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Сайхан-Овоо",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Хулд",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Цагаандэлгэр",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Эрдэнэдалай",
+    "aimag_name_mn": "Дундговь"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Арвайхээр",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Баруунбаян-Улаан",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Бат-Өлзий",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Баян-Өндөр",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Богд",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Бүрд",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Гучин-Ус",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Есөн зүйл",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Зүүнбаян-Улаан",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Нарийнтээл",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Өлзийт",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Сант",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Тарагт",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Төгрөг",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Уянга",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "52",
+    "district_name": "Хархорин",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Хайрхандулаан",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "55",
+    "district_name": "Хужирт",
+    "aimag_name_mn": "Өвөрхангай"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Булган",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Баян-Агт",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Баяннуур",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Бугат",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Гурван булаг",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Бүрэгхангай",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Дашинчилэн",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Могод",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Рашаант",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Сэлэнгэ",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Тэшиг",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Хангал",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Хишиг-өндөр",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Баянхонгор",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Хутаг-Өндөр",
+    "aimag_name_mn": "Булган"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Баацагаан",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Баянбулаг",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Баянговь",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Баянлиг",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Баян-Өндөр",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Богд",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Баянцагаан",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Бөмбөгөр",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Бууцагаан",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Галуут",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Жаргалант",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Гурванбулаг",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Жинст",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Заг",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "01",
+    "district_name": "Эрдэнэбулган",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Өлзийт",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "58",
+    "district_name": "Эрдэнэцогт",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "52",
+    "district_name": "Хүрээмарал",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "55",
+    "district_name": "Шинэжинст",
+    "aimag_name_mn": "Баянхонгор"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Батцэнгэл",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Их тамир",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Жаргалант",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Өндөр-Улаан",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Булган",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Өгийнуур",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Өлзийт",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Хангай",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Тариат",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Төвшрүүлэх",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Хашаат",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Хотонт",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Хайрхан",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Цахир",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Цэнхэр",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Цэцэрлэг",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Мөрөн",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "52",
+    "district_name": "Чулуут",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "55",
+    "district_name": "Эрдэнэмандал",
+    "aimag_name_mn": "Архангай"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Алаг-Эрдэнэ",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Арбулаг",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Жаргалант",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Галт",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Бүрэнтогтох",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Их-Уул",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Рэнчинлхүмбэ",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Рашаант",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Тосонцэнгэл",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Төмөрбулаг",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Тариалан",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Түнэл",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Улаан-Уул",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Ханх",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Цагааннуур",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "55",
+    "district_name": "Цагаан-Үүр",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "58",
+    "district_name": "Цэцэрлэг",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "52",
+    "district_name": "Цагаан-Уул",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "61",
+    "district_name": "Чандмань-Өндөр",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "64",
+    "district_name": "Шинэ-Идэр",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "67",
+    "district_name": "Эрдэнэбулган",
+    "aimag_name_mn": "Хөвсгөл"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Улиастай",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Алдархаан",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Асгат",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Баянтэс",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Баянхайрхан",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Дөрвөлжин",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Завханмандал",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Идэр",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Их-Уул",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Нөмрөг",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Отгон",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Сантмаргац",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Сонгино",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Тосонцэнгэл",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Түдэвтэй",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Тэлмэн",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Тэс",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "52",
+    "district_name": "Ургамал",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "55",
+    "district_name": "Цагаанхайрхан",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "58",
+    "district_name": "Цагаанчулуут",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "64",
+    "district_name": "Шилүүстэй",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "61",
+    "district_name": "Цэцэн-Уул",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "67",
+    "district_name": "Эрдэнэхайрхан",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "70",
+    "district_name": "Яруу",
+    "aimag_name_mn": "Завхан"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Есөнбулаг",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Алтай",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Бигэр",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Баян-Уул",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Бугат",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Дэлгэр",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Дарив",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Жаргалан",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Тайшир",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Халиун",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Тонхил",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Төгрөг",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Хөхморьт",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Цогт",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Цээл",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Чандмань",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Шарга",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "52",
+    "district_name": "Эрдэнэ",
+    "aimag_name_mn": "Говь-Алтай"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Өлгий",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Алтанцөгц",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Баяннуур",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Дэлүүн",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Булган",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Буянт",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Толбо",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Сагсай",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Ногооннуур",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Улаанхус",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Жаргалант",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Цэнгэл",
+    "aimag_name_mn": "Баян-Өлгий"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Буянт",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Дарви",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Дөргөн",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Дуут",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Манхан",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Мянгад",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Мөнххайрхан",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Зэрэг",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Мөст",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Үенч",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Ховд",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "1",
+    "district_name": "Улаангом",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Эрдэнэбүрэн",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Цэцэг",
+    "aimag_name_mn": "Ховд"
+  },
+  {
+    "district_code": "4",
+    "district_name": "Баруунтуруун",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "7",
+    "district_name": "Бөхмөрөн",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "10",
+    "district_name": "Давст",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "19",
+    "district_name": "Зүүнхангай",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "16",
+    "district_name": "Зүүнговь",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "22",
+    "district_name": "Малчин",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "13",
+    "district_name": "Завхан",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "25",
+    "district_name": "Наранбулаг",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "31",
+    "district_name": "Өмнөгөвь",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "28",
+    "district_name": "Өлгий",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "40",
+    "district_name": "Тариалан",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "34",
+    "district_name": "Өндөрхангай",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "37",
+    "district_name": "Сагил",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "43",
+    "district_name": "Түргэн",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "46",
+    "district_name": "Тэс",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "49",
+    "district_name": "Ховд",
+    "aimag_name_mn": "Увс"
+  },
+  {
+    "district_code": "52",
+    "district_name": "Хяргас",
+    "aimag_name_mn": "Увс"
+  }
+]
