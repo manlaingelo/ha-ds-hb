@@ -2,10 +2,10 @@
   {
     "aimag_code": "11",
     "aimag_name_mn": "Улаанбаатар",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "07",
-        "district_name": "Баянгол",
+        "duureg_code": "07",
+        "duureg_name": "Баянгол",
         "khoroos": [
           {
             "bag_code": "51",
@@ -146,8 +146,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Багахангай",
+        "duureg_code": "04",
+        "duureg_name": "Багахангай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -160,212 +160,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Баянзүрх",
-        "khoroos": [
-          {
-            "bag_code": "51",
-            "bag_name_mn": "1-р хороо"
-          },
-          {
-            "bag_code": "53",
-            "bag_name_mn": "2-р хороо"
-          },
-          {
-            "bag_code": "55",
-            "bag_name_mn": "3-р хороо"
-          },
-          {
-            "bag_code": "57",
-            "bag_name_mn": "4-р хороо"
-          },
-          {
-            "bag_code": "59",
-            "bag_name_mn": "5-р хороо"
-          },
-          {
-            "bag_code": "61",
-            "bag_name_mn": "6-р хороо"
-          },
-          {
-            "bag_code": "63",
-            "bag_name_mn": "7-р хороо"
-          },
-          {
-            "bag_code": "65",
-            "bag_name_mn": "8-р хороо"
-          },
-          {
-            "bag_code": "67",
-            "bag_name_mn": "9-р хороо"
-          },
-          {
-            "bag_code": "69",
-            "bag_name_mn": "10-р хороо"
-          },
-          {
-            "bag_code": "71",
-            "bag_name_mn": "11-р хороо"
-          },
-          {
-            "bag_code": "73",
-            "bag_name_mn": "12-р хороо"
-          },
-          {
-            "bag_code": "75",
-            "bag_name_mn": "13-р хороо"
-          },
-          {
-            "bag_code": "77",
-            "bag_name_mn": "14-р хороо"
-          },
-          {
-            "bag_code": "79",
-            "bag_name_mn": "15-р хороо"
-          },
-          {
-            "bag_code": "81",
-            "bag_name_mn": "16-р хороо"
-          },
-          {
-            "bag_code": "83",
-            "bag_name_mn": "17-р хороо"
-          },
-          {
-            "bag_code": "85",
-            "bag_name_mn": "18-р хороо"
-          },
-          {
-            "bag_code": "87",
-            "bag_name_mn": "19-р хороо"
-          },
-          {
-            "bag_code": "89",
-            "bag_name_mn": "20-р хороо"
-          },
-          {
-            "bag_code": "91",
-            "bag_name_mn": "21-р хороо"
-          },
-          {
-            "bag_code": "93",
-            "bag_name_mn": "22-р хороо"
-          },
-          {
-            "bag_code": "95",
-            "bag_name_mn": "23-р хороо"
-          },
-          {
-            "bag_code": "97",
-            "bag_name_mn": "24-р хороо"
-          },
-          {
-            "bag_code": "99",
-            "bag_name_mn": "25-р хороо"
-          },
-          {
-            "bag_code": "52",
-            "bag_name_mn": "26-р хороо"
-          },
-          {
-            "bag_code": "54",
-            "bag_name_mn": "27-р хороо"
-          },
-          {
-            "bag_code": "56",
-            "bag_name_mn": "28-р хороо"
-          },
-          {
-            "bag_code": "58",
-            "bag_name_mn": "29-р хороо"
-          },
-          {
-            "bag_code": "60",
-            "bag_name_mn": "30-р хороо"
-          },
-          {
-            "bag_code": "62",
-            "bag_name_mn": "31-р хороо"
-          },
-          {
-            "bag_code": "64",
-            "bag_name_mn": "32-р хороо"
-          },
-          {
-            "bag_code": "66",
-            "bag_name_mn": "33-р хороо"
-          },
-          {
-            "bag_code": "68",
-            "bag_name_mn": "34-р хороо"
-          },
-          {
-            "bag_code": "70",
-            "bag_name_mn": "35-р хороо"
-          },
-          {
-            "bag_code": "72",
-            "bag_name_mn": "36-р хороо"
-          },
-          {
-            "bag_code": "74",
-            "bag_name_mn": "37-р хороо"
-          },
-          {
-            "bag_code": "76",
-            "bag_name_mn": "38-р хороо"
-          },
-          {
-            "bag_code": "78",
-            "bag_name_mn": "39-р хороо"
-          },
-          {
-            "bag_code": "80",
-            "bag_name_mn": "40-р хороо"
-          },
-          {
-            "bag_code": "82",
-            "bag_name_mn": "41-р хороо"
-          },
-          {
-            "bag_code": "84",
-            "bag_name_mn": "42-р хороо"
-          },
-          {
-            "bag_code": "86",
-            "bag_name_mn": "43-р хороо"
-          }
-        ]
-      },
-      {
-        "district_code": "01",
-        "district_name": "Багануур",
-        "khoroos": [
-          {
-            "bag_code": "51",
-            "bag_name_mn": "1-р хороо"
-          },
-          {
-            "bag_code": "53",
-            "bag_name_mn": "2-р хороо"
-          },
-          {
-            "bag_code": "55",
-            "bag_name_mn": "3-р хороо"
-          },
-          {
-            "bag_code": "57",
-            "bag_name_mn": "4-р хороо"
-          },
-          {
-            "bag_code": "59",
-            "bag_name_mn": "5-р хороо"
-          }
-        ]
-      },
-      {
-        "district_code": "16",
-        "district_name": "Сонгинохайрхан",
+        "duureg_code": "10",
+        "duureg_name": "Баянзүрх",
         "khoroos": [
           {
             "bag_code": "51",
@@ -542,8 +338,212 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Налайх",
+        "duureg_code": "01",
+        "duureg_name": "Багануур",
+        "khoroos": [
+          {
+            "bag_code": "51",
+            "bag_name_mn": "1-р хороо"
+          },
+          {
+            "bag_code": "53",
+            "bag_name_mn": "2-р хороо"
+          },
+          {
+            "bag_code": "55",
+            "bag_name_mn": "3-р хороо"
+          },
+          {
+            "bag_code": "57",
+            "bag_name_mn": "4-р хороо"
+          },
+          {
+            "bag_code": "59",
+            "bag_name_mn": "5-р хороо"
+          }
+        ]
+      },
+      {
+        "duureg_code": "16",
+        "duureg_name": "Сонгинохайрхан",
+        "khoroos": [
+          {
+            "bag_code": "51",
+            "bag_name_mn": "1-р хороо"
+          },
+          {
+            "bag_code": "53",
+            "bag_name_mn": "2-р хороо"
+          },
+          {
+            "bag_code": "55",
+            "bag_name_mn": "3-р хороо"
+          },
+          {
+            "bag_code": "57",
+            "bag_name_mn": "4-р хороо"
+          },
+          {
+            "bag_code": "59",
+            "bag_name_mn": "5-р хороо"
+          },
+          {
+            "bag_code": "61",
+            "bag_name_mn": "6-р хороо"
+          },
+          {
+            "bag_code": "63",
+            "bag_name_mn": "7-р хороо"
+          },
+          {
+            "bag_code": "65",
+            "bag_name_mn": "8-р хороо"
+          },
+          {
+            "bag_code": "67",
+            "bag_name_mn": "9-р хороо"
+          },
+          {
+            "bag_code": "69",
+            "bag_name_mn": "10-р хороо"
+          },
+          {
+            "bag_code": "71",
+            "bag_name_mn": "11-р хороо"
+          },
+          {
+            "bag_code": "73",
+            "bag_name_mn": "12-р хороо"
+          },
+          {
+            "bag_code": "75",
+            "bag_name_mn": "13-р хороо"
+          },
+          {
+            "bag_code": "77",
+            "bag_name_mn": "14-р хороо"
+          },
+          {
+            "bag_code": "79",
+            "bag_name_mn": "15-р хороо"
+          },
+          {
+            "bag_code": "81",
+            "bag_name_mn": "16-р хороо"
+          },
+          {
+            "bag_code": "83",
+            "bag_name_mn": "17-р хороо"
+          },
+          {
+            "bag_code": "85",
+            "bag_name_mn": "18-р хороо"
+          },
+          {
+            "bag_code": "87",
+            "bag_name_mn": "19-р хороо"
+          },
+          {
+            "bag_code": "89",
+            "bag_name_mn": "20-р хороо"
+          },
+          {
+            "bag_code": "91",
+            "bag_name_mn": "21-р хороо"
+          },
+          {
+            "bag_code": "93",
+            "bag_name_mn": "22-р хороо"
+          },
+          {
+            "bag_code": "95",
+            "bag_name_mn": "23-р хороо"
+          },
+          {
+            "bag_code": "97",
+            "bag_name_mn": "24-р хороо"
+          },
+          {
+            "bag_code": "99",
+            "bag_name_mn": "25-р хороо"
+          },
+          {
+            "bag_code": "52",
+            "bag_name_mn": "26-р хороо"
+          },
+          {
+            "bag_code": "54",
+            "bag_name_mn": "27-р хороо"
+          },
+          {
+            "bag_code": "56",
+            "bag_name_mn": "28-р хороо"
+          },
+          {
+            "bag_code": "58",
+            "bag_name_mn": "29-р хороо"
+          },
+          {
+            "bag_code": "60",
+            "bag_name_mn": "30-р хороо"
+          },
+          {
+            "bag_code": "62",
+            "bag_name_mn": "31-р хороо"
+          },
+          {
+            "bag_code": "64",
+            "bag_name_mn": "32-р хороо"
+          },
+          {
+            "bag_code": "66",
+            "bag_name_mn": "33-р хороо"
+          },
+          {
+            "bag_code": "68",
+            "bag_name_mn": "34-р хороо"
+          },
+          {
+            "bag_code": "70",
+            "bag_name_mn": "35-р хороо"
+          },
+          {
+            "bag_code": "72",
+            "bag_name_mn": "36-р хороо"
+          },
+          {
+            "bag_code": "74",
+            "bag_name_mn": "37-р хороо"
+          },
+          {
+            "bag_code": "76",
+            "bag_name_mn": "38-р хороо"
+          },
+          {
+            "bag_code": "78",
+            "bag_name_mn": "39-р хороо"
+          },
+          {
+            "bag_code": "80",
+            "bag_name_mn": "40-р хороо"
+          },
+          {
+            "bag_code": "82",
+            "bag_name_mn": "41-р хороо"
+          },
+          {
+            "bag_code": "84",
+            "bag_name_mn": "42-р хороо"
+          },
+          {
+            "bag_code": "86",
+            "bag_name_mn": "43-р хороо"
+          }
+        ]
+      },
+      {
+        "duureg_code": "13",
+        "duureg_name": "Налайх",
         "khoroos": [
           {
             "bag_code": "51",
@@ -580,8 +580,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Сүхбаатар",
+        "duureg_code": "19",
+        "duureg_name": "Сүхбаатар",
         "khoroos": [
           {
             "bag_code": "51",
@@ -666,8 +666,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Чингэлтэй",
+        "duureg_code": "25",
+        "duureg_name": "Чингэлтэй",
         "khoroos": [
           {
             "bag_code": "51",
@@ -768,8 +768,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Хан-Уул",
+        "duureg_code": "22",
+        "duureg_name": "Хан-Уул",
         "khoroos": [
           {
             "bag_code": "51",
@@ -878,10 +878,10 @@
   {
     "aimag_code": "22",
     "aimag_name_mn": "Сүхбаатар",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Баруун-Урт",
+        "duureg_code": "01",
+        "duureg_name": "Баруун-Урт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -922,8 +922,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Асгат",
+        "duureg_code": "04",
+        "duureg_name": "Асгат",
         "khoroos": [
           {
             "bag_code": "51",
@@ -944,8 +944,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Дарьганга",
+        "duureg_code": "10",
+        "duureg_name": "Дарьганга",
         "khoroos": [
           {
             "bag_code": "51",
@@ -966,8 +966,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Баяндэлгэр",
+        "duureg_code": "07",
+        "duureg_name": "Баяндэлгэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -996,8 +996,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Онгон",
+        "duureg_code": "19",
+        "duureg_name": "Онгон",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1022,8 +1022,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Мөнххаан",
+        "duureg_code": "13",
+        "duureg_name": "Мөнххаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1048,8 +1048,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Наран",
+        "duureg_code": "16",
+        "duureg_name": "Наран",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1066,8 +1066,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Сүхбаатар",
+        "duureg_code": "22",
+        "duureg_name": "Сүхбаатар",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1092,8 +1092,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Түвшинширээ",
+        "duureg_code": "25",
+        "duureg_name": "Түвшинширээ",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1118,8 +1118,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Түмэнцогт",
+        "duureg_code": "28",
+        "duureg_name": "Түмэнцогт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1140,8 +1140,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Эрдэнэцагаан",
+        "duureg_code": "37",
+        "duureg_name": "Эрдэнэцагаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1178,8 +1178,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Халзан",
+        "duureg_code": "34",
+        "duureg_name": "Халзан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1200,8 +1200,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Уулбаян",
+        "duureg_code": "31",
+        "duureg_name": "Уулбаян",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1230,10 +1230,10 @@
   {
     "aimag_code": "23",
     "aimag_name_mn": "Хэнтий",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Хэрлэн",
+        "duureg_code": "01",
+        "duureg_name": "Хэрлэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1270,8 +1270,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Батноров",
+        "duureg_code": "04",
+        "duureg_name": "Батноров",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1304,8 +1304,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Баянмөнх",
+        "duureg_code": "13",
+        "duureg_name": "Баянмөнх",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1326,8 +1326,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Баян-Овоо",
+        "duureg_code": "16",
+        "duureg_name": "Баян-Овоо",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1348,8 +1348,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Баян-Адарга",
+        "duureg_code": "10",
+        "duureg_name": "Баян-Адарга",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1370,8 +1370,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Батширээт",
+        "duureg_code": "07",
+        "duureg_name": "Батширээт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1392,8 +1392,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Баянхутаг",
+        "duureg_code": "19",
+        "duureg_name": "Баянхутаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1410,8 +1410,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Биндэр",
+        "duureg_code": "22",
+        "duureg_name": "Биндэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1436,8 +1436,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Галшар",
+        "duureg_code": "25",
+        "duureg_name": "Галшар",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1466,8 +1466,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Дадал",
+        "duureg_code": "28",
+        "duureg_name": "Дадал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1488,8 +1488,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Дэлгэрхаан",
+        "duureg_code": "34",
+        "duureg_name": "Дэлгэрхаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1514,8 +1514,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Дархан",
+        "duureg_code": "31",
+        "duureg_name": "Дархан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1536,8 +1536,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Жаргалтхаан",
+        "duureg_code": "37",
+        "duureg_name": "Жаргалтхаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1562,8 +1562,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Мөрөн",
+        "duureg_code": "40",
+        "duureg_name": "Мөрөн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1588,8 +1588,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Норовлин",
+        "duureg_code": "43",
+        "duureg_name": "Норовлин",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1610,8 +1610,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Өмнөдэлгэр",
+        "duureg_code": "46",
+        "duureg_name": "Өмнөдэлгэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1644,8 +1644,8 @@
         ]
       },
       {
-        "district_code": "52",
-        "district_name": "Бор-Өндөр",
+        "duureg_code": "52",
+        "duureg_name": "Бор-Өндөр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1674,8 +1674,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Цэнхэрмандал",
+        "duureg_code": "49",
+        "duureg_name": "Цэнхэрмандал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1700,10 +1700,10 @@
   {
     "aimag_code": "21",
     "aimag_name_mn": "Дорнод",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Хэрлэн",
+        "duureg_code": "01",
+        "duureg_name": "Хэрлэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1752,8 +1752,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Баяндун",
+        "duureg_code": "04",
+        "duureg_name": "Баяндун",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1774,8 +1774,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Баянтүмэн",
+        "duureg_code": "07",
+        "duureg_name": "Баянтүмэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1796,8 +1796,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Булган",
+        "duureg_code": "13",
+        "duureg_name": "Булган",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1818,8 +1818,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Гурванзагал",
+        "duureg_code": "16",
+        "duureg_name": "Гурванзагал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1836,8 +1836,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Баян-Уул",
+        "duureg_code": "10",
+        "duureg_name": "Баян-Уул",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1866,8 +1866,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Дашбалбар",
+        "duureg_code": "19",
+        "duureg_name": "Дашбалбар",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1892,8 +1892,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Матад",
+        "duureg_code": "22",
+        "duureg_name": "Матад",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1922,8 +1922,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Сэргэлэн",
+        "duureg_code": "25",
+        "duureg_name": "Сэргэлэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1948,8 +1948,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Халхгол",
+        "duureg_code": "28",
+        "duureg_name": "Халхгол",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1966,8 +1966,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Хөлөнбуйр",
+        "duureg_code": "31",
+        "duureg_name": "Хөлөнбуйр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -1984,8 +1984,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Цагаан-Овоо",
+        "duureg_code": "34",
+        "duureg_name": "Цагаан-Овоо",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2014,8 +2014,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Чулуунхороот",
+        "duureg_code": "40",
+        "duureg_name": "Чулуунхороот",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2032,8 +2032,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Чойбалсан",
+        "duureg_code": "37",
+        "duureg_name": "Чойбалсан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2058,10 +2058,10 @@
   {
     "aimag_code": "41",
     "aimag_name_mn": "Төв",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "16",
-        "district_name": "Баян",
+        "duureg_code": "16",
+        "duureg_name": "Баян",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2078,8 +2078,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Баяндэлгэр",
+        "duureg_code": "19",
+        "duureg_name": "Баяндэлгэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2092,8 +2092,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Баянжаргалан",
+        "duureg_code": "22",
+        "duureg_name": "Баянжаргалан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2110,8 +2110,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Баян-Өнжүүл",
+        "duureg_code": "25",
+        "duureg_name": "Баян-Өнжүүл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2128,8 +2128,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Баянхангай",
+        "duureg_code": "28",
+        "duureg_name": "Баянхангай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2142,8 +2142,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Баянцагаан",
+        "duureg_code": "31",
+        "duureg_name": "Баянцагаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2168,8 +2168,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Баянцогт",
+        "duureg_code": "34",
+        "duureg_name": "Баянцогт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2186,8 +2186,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Баянчандмань",
+        "duureg_code": "37",
+        "duureg_name": "Баянчандмань",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2204,8 +2204,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Борнуур",
+        "duureg_code": "40",
+        "duureg_name": "Борнуур",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2226,8 +2226,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Бүрэн",
+        "duureg_code": "43",
+        "duureg_name": "Бүрэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2252,8 +2252,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Дэлгэрхаан",
+        "duureg_code": "46",
+        "duureg_name": "Дэлгэрхаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2270,8 +2270,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Жаргалант",
+        "duureg_code": "49",
+        "duureg_name": "Жаргалант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2292,8 +2292,8 @@
         ]
       },
       {
-        "district_code": "52",
-        "district_name": "Заамар",
+        "duureg_code": "52",
+        "duureg_name": "Заамар",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2314,8 +2314,8 @@
         ]
       },
       {
-        "district_code": "55",
-        "district_name": "Лүн",
+        "duureg_code": "55",
+        "duureg_name": "Лүн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2332,8 +2332,8 @@
         ]
       },
       {
-        "district_code": "58",
-        "district_name": "Мөнгөнморьт",
+        "duureg_code": "58",
+        "duureg_name": "Мөнгөнморьт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2350,8 +2350,8 @@
         ]
       },
       {
-        "district_code": "61",
-        "district_name": "Өндөрширээт",
+        "duureg_code": "61",
+        "duureg_name": "Өндөрширээт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2372,8 +2372,8 @@
         ]
       },
       {
-        "district_code": "64",
-        "district_name": "Сүмбэр",
+        "duureg_code": "64",
+        "duureg_name": "Сүмбэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2386,8 +2386,8 @@
         ]
       },
       {
-        "district_code": "67",
-        "district_name": "Сэргэлэн",
+        "duureg_code": "67",
+        "duureg_name": "Сэргэлэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2412,8 +2412,8 @@
         ]
       },
       {
-        "district_code": "70",
-        "district_name": "Угтаалцайдам",
+        "duureg_code": "70",
+        "duureg_name": "Угтаалцайдам",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2430,8 +2430,8 @@
         ]
       },
       {
-        "district_code": "73",
-        "district_name": "Цээл",
+        "duureg_code": "73",
+        "duureg_name": "Цээл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2456,8 +2456,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Алтанбулаг",
+        "duureg_code": "04",
+        "duureg_name": "Алтанбулаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2478,8 +2478,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Зуунмод",
+        "duureg_code": "01",
+        "duureg_name": "Зуунмод",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2508,8 +2508,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Аргалант",
+        "duureg_code": "07",
+        "duureg_name": "Аргалант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2522,8 +2522,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Архуст",
+        "duureg_code": "10",
+        "duureg_name": "Архуст",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2536,8 +2536,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Батсүмбэр",
+        "duureg_code": "13",
+        "duureg_name": "Батсүмбэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2558,8 +2558,8 @@
         ]
       },
       {
-        "district_code": "76",
-        "district_name": "Эрдэнэ",
+        "duureg_code": "76",
+        "duureg_name": "Эрдэнэ",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2584,8 +2584,8 @@
         ]
       },
       {
-        "district_code": "79",
-        "district_name": "Эрдэнэсант",
+        "duureg_code": "79",
+        "duureg_name": "Эрдэнэсант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2614,10 +2614,10 @@
   {
     "aimag_code": "42",
     "aimag_name_mn": "Говьсүмбэр",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Сүмбэр",
+        "duureg_code": "01",
+        "duureg_name": "Сүмбэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2646,8 +2646,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Баянтал",
+        "duureg_code": "04",
+        "duureg_name": "Баянтал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2660,8 +2660,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Шивээговь",
+        "duureg_code": "07",
+        "duureg_name": "Шивээговь",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2678,10 +2678,10 @@
   {
     "aimag_code": "43",
     "aimag_name_mn": "Сэлэнгэ",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "04",
-        "district_name": "Алтанбулаг",
+        "duureg_code": "04",
+        "duureg_name": "Алтанбулаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2698,8 +2698,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Сүхбаатар",
+        "duureg_code": "01",
+        "duureg_name": "Сүхбаатар",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2736,8 +2736,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Баруунбүрэн",
+        "duureg_code": "07",
+        "duureg_name": "Баруунбүрэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2754,8 +2754,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Баянгол",
+        "duureg_code": "10",
+        "duureg_name": "Баянгол",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2772,8 +2772,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Ерөө",
+        "duureg_code": "13",
+        "duureg_name": "Ерөө",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2790,8 +2790,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Жавхлант",
+        "duureg_code": "16",
+        "duureg_name": "Жавхлант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2804,8 +2804,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Зүүнбүрэн",
+        "duureg_code": "19",
+        "duureg_name": "Зүүнбүрэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2822,8 +2822,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Орхон",
+        "duureg_code": "25",
+        "duureg_name": "Орхон",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2836,8 +2836,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Мандал",
+        "duureg_code": "22",
+        "duureg_name": "Мандал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2878,8 +2878,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Сайхан",
+        "duureg_code": "31",
+        "duureg_name": "Сайхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2900,8 +2900,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Орхонтуул",
+        "duureg_code": "28",
+        "duureg_name": "Орхонтуул",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2918,8 +2918,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Сант",
+        "duureg_code": "34",
+        "duureg_name": "Сант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2932,8 +2932,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Түшиг",
+        "duureg_code": "37",
+        "duureg_name": "Түшиг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2946,8 +2946,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Хушаат",
+        "duureg_code": "43",
+        "duureg_name": "Хушаат",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2960,8 +2960,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Хүдэр",
+        "duureg_code": "40",
+        "duureg_name": "Хүдэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2974,8 +2974,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Цагааннуур",
+        "duureg_code": "46",
+        "duureg_name": "Цагааннуур",
         "khoroos": [
           {
             "bag_code": "51",
@@ -2992,8 +2992,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Шаамар",
+        "duureg_code": "49",
+        "duureg_name": "Шаамар",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3014,10 +3014,10 @@
   {
     "aimag_code": "44",
     "aimag_name_mn": "Дорноговь",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "04",
-        "district_name": "Айраг",
+        "duureg_code": "04",
+        "duureg_name": "Айраг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3038,8 +3038,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Сайншанд",
+        "duureg_code": "01",
+        "duureg_name": "Сайншанд",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3076,8 +3076,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Даланжаргалан",
+        "duureg_code": "10",
+        "duureg_name": "Даланжаргалан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3102,8 +3102,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Алтанширээ",
+        "duureg_code": "07",
+        "duureg_name": "Алтанширээ",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3124,8 +3124,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Замын-Үүд",
+        "duureg_code": "16",
+        "duureg_name": "Замын-Үүд",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3150,8 +3150,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Дэлгэрэх",
+        "duureg_code": "13",
+        "duureg_name": "Дэлгэрэх",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3172,8 +3172,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Иххэт",
+        "duureg_code": "19",
+        "duureg_name": "Иххэт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3190,8 +3190,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Сайхандулаан",
+        "duureg_code": "28",
+        "duureg_name": "Сайхандулаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3212,8 +3212,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Мандах",
+        "duureg_code": "22",
+        "duureg_name": "Мандах",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3238,8 +3238,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Өргөн",
+        "duureg_code": "25",
+        "duureg_name": "Өргөн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3260,8 +3260,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Улаанбадрах",
+        "duureg_code": "31",
+        "duureg_name": "Улаанбадрах",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3282,8 +3282,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Хатанбулаг",
+        "duureg_code": "34",
+        "duureg_name": "Хатанбулаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3312,8 +3312,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Эрдэнэ",
+        "duureg_code": "40",
+        "duureg_name": "Эрдэнэ",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3338,8 +3338,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Хөвсгөл",
+        "duureg_code": "37",
+        "duureg_name": "Хөвсгөл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3364,10 +3364,10 @@
   {
     "aimag_code": "45",
     "aimag_name_mn": "Дархан-Уул",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Дархан",
+        "duureg_code": "01",
+        "duureg_name": "Дархан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3444,8 +3444,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Орхон",
+        "duureg_code": "04",
+        "duureg_name": "Орхон",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3458,8 +3458,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Хонгор",
+        "duureg_code": "07",
+        "duureg_name": "Хонгор",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3476,8 +3476,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Шарын гол",
+        "duureg_code": "10",
+        "duureg_name": "Шарын гол",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3498,10 +3498,10 @@
   {
     "aimag_code": "46",
     "aimag_name_mn": "Өмнөговь",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Даланзадгад",
+        "duureg_code": "01",
+        "duureg_name": "Даланзадгад",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3538,8 +3538,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Баяндалай",
+        "duureg_code": "04",
+        "duureg_name": "Баяндалай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3556,8 +3556,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Баян-Овоо",
+        "duureg_code": "07",
+        "duureg_name": "Баян-Овоо",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3574,8 +3574,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Булган",
+        "duureg_code": "10",
+        "duureg_name": "Булган",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3596,8 +3596,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Гурвантэс",
+        "duureg_code": "13",
+        "duureg_name": "Гурвантэс",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3622,8 +3622,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Мандал-Овоо",
+        "duureg_code": "16",
+        "duureg_name": "Мандал-Овоо",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3640,8 +3640,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Манлай",
+        "duureg_code": "19",
+        "duureg_name": "Манлай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3662,8 +3662,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Ноён",
+        "duureg_code": "22",
+        "duureg_name": "Ноён",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3676,8 +3676,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Номгон",
+        "duureg_code": "25",
+        "duureg_name": "Номгон",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3702,8 +3702,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Сэврэй",
+        "duureg_code": "28",
+        "duureg_name": "Сэврэй",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3720,8 +3720,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Ханбогд",
+        "duureg_code": "31",
+        "duureg_name": "Ханбогд",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3746,8 +3746,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Ханхонгор",
+        "duureg_code": "34",
+        "duureg_name": "Ханхонгор",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3768,8 +3768,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Хүрмэн",
+        "duureg_code": "37",
+        "duureg_name": "Хүрмэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3786,8 +3786,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Цогт-Овоо",
+        "duureg_code": "40",
+        "duureg_name": "Цогт-Овоо",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3804,8 +3804,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Цогтцэций",
+        "duureg_code": "43",
+        "duureg_name": "Цогтцэций",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3830,10 +3830,10 @@
   {
     "aimag_code": "48",
     "aimag_name_mn": "Дундговь",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Сайнцагаан",
+        "duureg_code": "01",
+        "duureg_name": "Сайнцагаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3874,8 +3874,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Адаацаг",
+        "duureg_code": "04",
+        "duureg_name": "Адаацаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3900,8 +3900,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Баянжаргалан",
+        "duureg_code": "07",
+        "duureg_name": "Баянжаргалан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3918,8 +3918,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Говь-Угтаал",
+        "duureg_code": "10",
+        "duureg_name": "Говь-Угтаал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3940,8 +3940,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Гурвансайхан",
+        "duureg_code": "13",
+        "duureg_name": "Гурвансайхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3966,8 +3966,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Дэлгэрхангай",
+        "duureg_code": "16",
+        "duureg_name": "Дэлгэрхангай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -3988,8 +3988,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Дэлгэрцогт",
+        "duureg_code": "19",
+        "duureg_name": "Дэлгэрцогт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4006,8 +4006,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Дэрэн",
+        "duureg_code": "22",
+        "duureg_name": "Дэрэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4028,8 +4028,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Өлзийт",
+        "duureg_code": "28",
+        "duureg_name": "Өлзийт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4058,8 +4058,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Луус",
+        "duureg_code": "25",
+        "duureg_name": "Луус",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4076,8 +4076,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Өндөршил",
+        "duureg_code": "31",
+        "duureg_name": "Өндөршил",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4094,8 +4094,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Сайхан-Овоо",
+        "duureg_code": "34",
+        "duureg_name": "Сайхан-Овоо",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4116,8 +4116,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Хулд",
+        "duureg_code": "37",
+        "duureg_name": "Хулд",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4138,8 +4138,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Цагаандэлгэр",
+        "duureg_code": "40",
+        "duureg_name": "Цагаандэлгэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4160,8 +4160,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Эрдэнэдалай",
+        "duureg_code": "43",
+        "duureg_name": "Эрдэнэдалай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4198,10 +4198,10 @@
   {
     "aimag_code": "61",
     "aimag_name_mn": "Орхон",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Баян-Өндөр",
+        "duureg_code": "01",
+        "duureg_name": "Баян-Өндөр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4294,8 +4294,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Жаргалант",
+        "duureg_code": "04",
+        "duureg_name": "Жаргалант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4316,10 +4316,10 @@
   {
     "aimag_code": "62",
     "aimag_name_mn": "Өвөрхангай",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "10",
-        "district_name": "Баянгол",
+        "duureg_code": "10",
+        "duureg_name": "Баянгол",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4348,8 +4348,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Арвайхээр",
+        "duureg_code": "01",
+        "duureg_name": "Арвайхээр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4406,8 +4406,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Баруунбаян-Улаан",
+        "duureg_code": "04",
+        "duureg_name": "Баруунбаян-Улаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4428,8 +4428,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Бат-Өлзий",
+        "duureg_code": "07",
+        "duureg_name": "Бат-Өлзий",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4454,8 +4454,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Баян-Өндөр",
+        "duureg_code": "13",
+        "duureg_name": "Баян-Өндөр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4480,8 +4480,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Богд",
+        "duureg_code": "16",
+        "duureg_name": "Богд",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4514,8 +4514,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Бүрд",
+        "duureg_code": "19",
+        "duureg_name": "Бүрд",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4540,8 +4540,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Гучин-Ус",
+        "duureg_code": "22",
+        "duureg_name": "Гучин-Ус",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4562,8 +4562,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Есөн зүйл",
+        "duureg_code": "25",
+        "duureg_name": "Есөн зүйл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4584,8 +4584,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Зүүнбаян-Улаан",
+        "duureg_code": "28",
+        "duureg_name": "Зүүнбаян-Улаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4614,8 +4614,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Нарийнтээл",
+        "duureg_code": "31",
+        "duureg_name": "Нарийнтээл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4636,8 +4636,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Өлзийт",
+        "duureg_code": "34",
+        "duureg_name": "Өлзийт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4658,8 +4658,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Сант",
+        "duureg_code": "37",
+        "duureg_name": "Сант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4684,8 +4684,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Тарагт",
+        "duureg_code": "40",
+        "duureg_name": "Тарагт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4714,8 +4714,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Төгрөг",
+        "duureg_code": "43",
+        "duureg_name": "Төгрөг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4740,8 +4740,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Уянга",
+        "duureg_code": "46",
+        "duureg_name": "Уянга",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4778,8 +4778,8 @@
         ]
       },
       {
-        "district_code": "52",
-        "district_name": "Хархорин",
+        "duureg_code": "52",
+        "duureg_name": "Хархорин",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4816,8 +4816,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Хайрхандулаан",
+        "duureg_code": "49",
+        "duureg_name": "Хайрхандулаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4846,8 +4846,8 @@
         ]
       },
       {
-        "district_code": "55",
-        "district_name": "Хужирт",
+        "duureg_code": "55",
+        "duureg_name": "Хужирт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4880,10 +4880,10 @@
   {
     "aimag_code": "63",
     "aimag_name_mn": "Булган",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "25",
-        "district_name": "Орхон",
+        "duureg_code": "25",
+        "duureg_name": "Орхон",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4908,8 +4908,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Сайхан",
+        "duureg_code": "31",
+        "duureg_name": "Сайхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4938,8 +4938,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Булган",
+        "duureg_code": "01",
+        "duureg_name": "Булган",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4968,8 +4968,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Баян-Агт",
+        "duureg_code": "04",
+        "duureg_name": "Баян-Агт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -4998,8 +4998,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Баяннуур",
+        "duureg_code": "07",
+        "duureg_name": "Баяннуур",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5012,8 +5012,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Бугат",
+        "duureg_code": "10",
+        "duureg_name": "Бугат",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5030,8 +5030,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Гурван булаг",
+        "duureg_code": "16",
+        "duureg_name": "Гурван булаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5060,8 +5060,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Бүрэгхангай",
+        "duureg_code": "13",
+        "duureg_name": "Бүрэгхангай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5082,8 +5082,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Дашинчилэн",
+        "duureg_code": "19",
+        "duureg_name": "Дашинчилэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5104,8 +5104,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Могод",
+        "duureg_code": "22",
+        "duureg_name": "Могод",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5130,8 +5130,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Рашаант",
+        "duureg_code": "28",
+        "duureg_name": "Рашаант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5152,8 +5152,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Сэлэнгэ",
+        "duureg_code": "34",
+        "duureg_name": "Сэлэнгэ",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5178,8 +5178,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Тэшиг",
+        "duureg_code": "37",
+        "duureg_name": "Тэшиг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5204,8 +5204,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Хангал",
+        "duureg_code": "40",
+        "duureg_name": "Хангал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5226,8 +5226,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Хишиг-өндөр",
+        "duureg_code": "43",
+        "duureg_name": "Хишиг-өндөр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5252,8 +5252,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Хутаг-Өндөр",
+        "duureg_code": "46",
+        "duureg_name": "Хутаг-Өндөр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5282,10 +5282,10 @@
   {
     "aimag_code": "64",
     "aimag_name_mn": "Баянхонгор",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "16",
-        "district_name": "Баян-Овоо",
+        "duureg_code": "16",
+        "duureg_name": "Баян-Овоо",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5306,8 +5306,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Баянхонгор",
+        "duureg_code": "01",
+        "duureg_name": "Баянхонгор",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5352,8 +5352,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Баацагаан",
+        "duureg_code": "04",
+        "duureg_name": "Баацагаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5386,8 +5386,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Баянбулаг",
+        "duureg_code": "07",
+        "duureg_name": "Баянбулаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5408,8 +5408,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Баянговь",
+        "duureg_code": "10",
+        "duureg_name": "Баянговь",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5434,8 +5434,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Баянлиг",
+        "duureg_code": "13",
+        "duureg_name": "Баянлиг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5460,8 +5460,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Баян-Өндөр",
+        "duureg_code": "19",
+        "duureg_name": "Баян-Өндөр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5482,8 +5482,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Богд",
+        "duureg_code": "25",
+        "duureg_name": "Богд",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5512,8 +5512,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Баянцагаан",
+        "duureg_code": "22",
+        "duureg_name": "Баянцагаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5538,8 +5538,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Бөмбөгөр",
+        "duureg_code": "28",
+        "duureg_name": "Бөмбөгөр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5560,8 +5560,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Бууцагаан",
+        "duureg_code": "31",
+        "duureg_name": "Бууцагаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5590,8 +5590,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Галуут",
+        "duureg_code": "34",
+        "duureg_name": "Галуут",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5620,8 +5620,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Жаргалант",
+        "duureg_code": "40",
+        "duureg_name": "Жаргалант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5642,8 +5642,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Гурванбулаг",
+        "duureg_code": "37",
+        "duureg_name": "Гурванбулаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5668,8 +5668,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Жинст",
+        "duureg_code": "43",
+        "duureg_name": "Жинст",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5694,8 +5694,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Заг",
+        "duureg_code": "46",
+        "duureg_name": "Заг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5716,8 +5716,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Өлзийт",
+        "duureg_code": "49",
+        "duureg_name": "Өлзийт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5746,8 +5746,8 @@
         ]
       },
       {
-        "district_code": "58",
-        "district_name": "Эрдэнэцогт",
+        "duureg_code": "58",
+        "duureg_name": "Эрдэнэцогт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5776,8 +5776,8 @@
         ]
       },
       {
-        "district_code": "52",
-        "district_name": "Хүрээмарал",
+        "duureg_code": "52",
+        "duureg_name": "Хүрээмарал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5802,8 +5802,8 @@
         ]
       },
       {
-        "district_code": "55",
-        "district_name": "Шинэжинст",
+        "duureg_code": "55",
+        "duureg_name": "Шинэжинст",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5828,10 +5828,10 @@
   {
     "aimag_code": "65",
     "aimag_name_mn": "Архангай",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Эрдэнэбулган",
+        "duureg_code": "01",
+        "duureg_name": "Эрдэнэбулган",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5864,8 +5864,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Батцэнгэл",
+        "duureg_code": "04",
+        "duureg_name": "Батцэнгэл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5894,8 +5894,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Их тамир",
+        "duureg_code": "13",
+        "duureg_name": "Их тамир",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5924,8 +5924,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Жаргалант",
+        "duureg_code": "10",
+        "duureg_name": "Жаргалант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5950,8 +5950,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Өндөр-Улаан",
+        "duureg_code": "22",
+        "duureg_name": "Өндөр-Улаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5976,8 +5976,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Булган",
+        "duureg_code": "07",
+        "duureg_name": "Булган",
         "khoroos": [
           {
             "bag_code": "51",
@@ -5998,8 +5998,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Өгийнуур",
+        "duureg_code": "16",
+        "duureg_name": "Өгийнуур",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6024,8 +6024,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Өлзийт",
+        "duureg_code": "19",
+        "duureg_name": "Өлзийт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6046,8 +6046,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Хангай",
+        "duureg_code": "34",
+        "duureg_name": "Хангай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6076,8 +6076,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Тариат",
+        "duureg_code": "25",
+        "duureg_name": "Тариат",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6110,8 +6110,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Төвшрүүлэх",
+        "duureg_code": "28",
+        "duureg_name": "Төвшрүүлэх",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6132,8 +6132,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Хашаат",
+        "duureg_code": "37",
+        "duureg_name": "Хашаат",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6158,8 +6158,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Хотонт",
+        "duureg_code": "40",
+        "duureg_name": "Хотонт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6188,8 +6188,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Хайрхан",
+        "duureg_code": "31",
+        "duureg_name": "Хайрхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6214,8 +6214,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Цахир",
+        "duureg_code": "43",
+        "duureg_name": "Цахир",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6236,8 +6236,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Цэнхэр",
+        "duureg_code": "46",
+        "duureg_name": "Цэнхэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6266,8 +6266,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Цэцэрлэг",
+        "duureg_code": "49",
+        "duureg_name": "Цэцэрлэг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6292,8 +6292,8 @@
         ]
       },
       {
-        "district_code": "52",
-        "district_name": "Чулуут",
+        "duureg_code": "52",
+        "duureg_name": "Чулуут",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6318,8 +6318,8 @@
         ]
       },
       {
-        "district_code": "55",
-        "district_name": "Эрдэнэмандал",
+        "duureg_code": "55",
+        "duureg_name": "Эрдэнэмандал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6352,10 +6352,10 @@
   {
     "aimag_code": "67",
     "aimag_name_mn": "Хөвсгөл",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "10",
-        "district_name": "Баянзүрх",
+        "duureg_code": "10",
+        "duureg_name": "Баянзүрх",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6380,8 +6380,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Мөрөн",
+        "duureg_code": "01",
+        "duureg_name": "Мөрөн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6442,8 +6442,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Алаг-Эрдэнэ",
+        "duureg_code": "04",
+        "duureg_name": "Алаг-Эрдэнэ",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6472,8 +6472,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Арбулаг",
+        "duureg_code": "07",
+        "duureg_name": "Арбулаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6502,8 +6502,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Жаргалант",
+        "duureg_code": "19",
+        "duureg_name": "Жаргалант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6528,8 +6528,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Галт",
+        "duureg_code": "16",
+        "duureg_name": "Галт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6554,8 +6554,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Бүрэнтогтох",
+        "duureg_code": "13",
+        "duureg_name": "Бүрэнтогтох",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6584,8 +6584,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Их-Уул",
+        "duureg_code": "22",
+        "duureg_name": "Их-Уул",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6610,8 +6610,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Рэнчинлхүмбэ",
+        "duureg_code": "28",
+        "duureg_name": "Рэнчинлхүмбэ",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6640,8 +6640,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Рашаант",
+        "duureg_code": "25",
+        "duureg_name": "Рашаант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6666,8 +6666,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Тосонцэнгэл",
+        "duureg_code": "34",
+        "duureg_name": "Тосонцэнгэл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6692,8 +6692,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Төмөрбулаг",
+        "duureg_code": "37",
+        "duureg_name": "Төмөрбулаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6718,8 +6718,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Тариалан",
+        "duureg_code": "31",
+        "duureg_name": "Тариалан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6752,8 +6752,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Түнэл",
+        "duureg_code": "40",
+        "duureg_name": "Түнэл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6782,8 +6782,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Улаан-Уул",
+        "duureg_code": "43",
+        "duureg_name": "Улаан-Уул",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6812,8 +6812,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Ханх",
+        "duureg_code": "46",
+        "duureg_name": "Ханх",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6830,8 +6830,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Цагааннуур",
+        "duureg_code": "49",
+        "duureg_name": "Цагааннуур",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6844,8 +6844,8 @@
         ]
       },
       {
-        "district_code": "55",
-        "district_name": "Цагаан-Үүр",
+        "duureg_code": "55",
+        "duureg_name": "Цагаан-Үүр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6866,8 +6866,8 @@
         ]
       },
       {
-        "district_code": "58",
-        "district_name": "Цэцэрлэг",
+        "duureg_code": "58",
+        "duureg_name": "Цэцэрлэг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6900,8 +6900,8 @@
         ]
       },
       {
-        "district_code": "52",
-        "district_name": "Цагаан-Уул",
+        "duureg_code": "52",
+        "duureg_name": "Цагаан-Уул",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6930,8 +6930,8 @@
         ]
       },
       {
-        "district_code": "61",
-        "district_name": "Чандмань-Өндөр",
+        "duureg_code": "61",
+        "duureg_name": "Чандмань-Өндөр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6956,8 +6956,8 @@
         ]
       },
       {
-        "district_code": "64",
-        "district_name": "Шинэ-Идэр",
+        "duureg_code": "64",
+        "duureg_name": "Шинэ-Идэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -6978,8 +6978,8 @@
         ]
       },
       {
-        "district_code": "67",
-        "district_name": "Эрдэнэбулган",
+        "duureg_code": "67",
+        "duureg_name": "Эрдэнэбулган",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7008,10 +7008,10 @@
   {
     "aimag_code": "81",
     "aimag_name_mn": "Завхан",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Улиастай",
+        "duureg_code": "01",
+        "duureg_name": "Улиастай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7040,8 +7040,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Алдархаан",
+        "duureg_code": "04",
+        "duureg_name": "Алдархаан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7070,8 +7070,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Асгат",
+        "duureg_code": "07",
+        "duureg_name": "Асгат",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7088,8 +7088,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Баянтэс",
+        "duureg_code": "10",
+        "duureg_name": "Баянтэс",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7110,8 +7110,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Баянхайрхан",
+        "duureg_code": "13",
+        "duureg_name": "Баянхайрхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7132,8 +7132,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Дөрвөлжин",
+        "duureg_code": "16",
+        "duureg_name": "Дөрвөлжин",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7158,8 +7158,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Завханмандал",
+        "duureg_code": "19",
+        "duureg_name": "Завханмандал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7180,8 +7180,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Идэр",
+        "duureg_code": "22",
+        "duureg_name": "Идэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7202,8 +7202,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Их-Уул",
+        "duureg_code": "25",
+        "duureg_name": "Их-Уул",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7232,8 +7232,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Нөмрөг",
+        "duureg_code": "28",
+        "duureg_name": "Нөмрөг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7258,8 +7258,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Отгон",
+        "duureg_code": "31",
+        "duureg_name": "Отгон",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7288,8 +7288,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Сантмаргац",
+        "duureg_code": "34",
+        "duureg_name": "Сантмаргац",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7310,8 +7310,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Сонгино",
+        "duureg_code": "37",
+        "duureg_name": "Сонгино",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7336,8 +7336,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Тосонцэнгэл",
+        "duureg_code": "40",
+        "duureg_name": "Тосонцэнгэл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7370,8 +7370,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Түдэвтэй",
+        "duureg_code": "43",
+        "duureg_name": "Түдэвтэй",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7396,8 +7396,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Тэлмэн",
+        "duureg_code": "46",
+        "duureg_name": "Тэлмэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7426,8 +7426,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Тэс",
+        "duureg_code": "49",
+        "duureg_name": "Тэс",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7448,8 +7448,8 @@
         ]
       },
       {
-        "district_code": "52",
-        "district_name": "Ургамал",
+        "duureg_code": "52",
+        "duureg_name": "Ургамал",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7474,8 +7474,8 @@
         ]
       },
       {
-        "district_code": "55",
-        "district_name": "Цагаанхайрхан",
+        "duureg_code": "55",
+        "duureg_name": "Цагаанхайрхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7496,8 +7496,8 @@
         ]
       },
       {
-        "district_code": "58",
-        "district_name": "Цагаанчулуут",
+        "duureg_code": "58",
+        "duureg_name": "Цагаанчулуут",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7518,8 +7518,8 @@
         ]
       },
       {
-        "district_code": "64",
-        "district_name": "Шилүүстэй",
+        "duureg_code": "64",
+        "duureg_name": "Шилүүстэй",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7540,8 +7540,8 @@
         ]
       },
       {
-        "district_code": "61",
-        "district_name": "Цэцэн-Уул",
+        "duureg_code": "61",
+        "duureg_name": "Цэцэн-Уул",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7566,8 +7566,8 @@
         ]
       },
       {
-        "district_code": "67",
-        "district_name": "Эрдэнэхайрхан",
+        "duureg_code": "67",
+        "duureg_name": "Эрдэнэхайрхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7592,8 +7592,8 @@
         ]
       },
       {
-        "district_code": "70",
-        "district_name": "Яруу",
+        "duureg_code": "70",
+        "duureg_name": "Яруу",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7622,10 +7622,10 @@
   {
     "aimag_code": "82",
     "aimag_name_mn": "Говь-Алтай",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "01",
-        "district_name": "Есөнбулаг",
+        "duureg_code": "01",
+        "duureg_name": "Есөнбулаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7670,8 +7670,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Алтай",
+        "duureg_code": "04",
+        "duureg_name": "Алтай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7692,8 +7692,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Бигэр",
+        "duureg_code": "10",
+        "duureg_name": "Бигэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7718,8 +7718,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Баян-Уул",
+        "duureg_code": "07",
+        "duureg_name": "Баян-Уул",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7748,8 +7748,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Бугат",
+        "duureg_code": "13",
+        "duureg_name": "Бугат",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7774,8 +7774,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Дэлгэр",
+        "duureg_code": "19",
+        "duureg_name": "Дэлгэр",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7800,8 +7800,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Дарив",
+        "duureg_code": "16",
+        "duureg_name": "Дарив",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7822,8 +7822,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Жаргалан",
+        "duureg_code": "22",
+        "duureg_name": "Жаргалан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7840,8 +7840,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Тайшир",
+        "duureg_code": "25",
+        "duureg_name": "Тайшир",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7858,8 +7858,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Халиун",
+        "duureg_code": "34",
+        "duureg_name": "Халиун",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7880,8 +7880,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Тонхил",
+        "duureg_code": "28",
+        "duureg_name": "Тонхил",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7906,8 +7906,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Төгрөг",
+        "duureg_code": "31",
+        "duureg_name": "Төгрөг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7932,8 +7932,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Хөхморьт",
+        "duureg_code": "37",
+        "duureg_name": "Хөхморьт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7958,8 +7958,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Цогт",
+        "duureg_code": "40",
+        "duureg_name": "Цогт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -7992,8 +7992,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Цээл",
+        "duureg_code": "43",
+        "duureg_name": "Цээл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8014,8 +8014,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Чандмань",
+        "duureg_code": "46",
+        "duureg_name": "Чандмань",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8040,8 +8040,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Шарга",
+        "duureg_code": "49",
+        "duureg_name": "Шарга",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8062,8 +8062,8 @@
         ]
       },
       {
-        "district_code": "52",
-        "district_name": "Эрдэнэ",
+        "duureg_code": "52",
+        "duureg_name": "Эрдэнэ",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8088,10 +8088,10 @@
   {
     "aimag_code": "83",
     "aimag_name_mn": "Баян-Өлгий",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "04",
-        "district_name": "Алтай",
+        "duureg_code": "04",
+        "duureg_name": "Алтай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8116,8 +8116,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Бугат",
+        "duureg_code": "13",
+        "duureg_name": "Бугат",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8142,8 +8142,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Өлгий",
+        "duureg_code": "01",
+        "duureg_name": "Өлгий",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8200,8 +8200,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Алтанцөгц",
+        "duureg_code": "07",
+        "duureg_name": "Алтанцөгц",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8222,8 +8222,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Баяннуур",
+        "duureg_code": "10",
+        "duureg_name": "Баяннуур",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8248,8 +8248,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Дэлүүн",
+        "duureg_code": "22",
+        "duureg_name": "Дэлүүн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8302,8 +8302,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Булган",
+        "duureg_code": "16",
+        "duureg_name": "Булган",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8336,8 +8336,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Буянт",
+        "duureg_code": "19",
+        "duureg_name": "Буянт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8358,8 +8358,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Толбо",
+        "duureg_code": "31",
+        "duureg_name": "Толбо",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8388,8 +8388,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Сагсай",
+        "duureg_code": "28",
+        "duureg_name": "Сагсай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8422,8 +8422,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Ногооннуур",
+        "duureg_code": "25",
+        "duureg_name": "Ногооннуур",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8464,8 +8464,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Улаанхус",
+        "duureg_code": "34",
+        "duureg_name": "Улаанхус",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8514,8 +8514,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Цэнгэл",
+        "duureg_code": "37",
+        "duureg_name": "Цэнгэл",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8560,10 +8560,10 @@
   {
     "aimag_code": "84",
     "aimag_name_mn": "Ховд",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "04",
-        "district_name": "Алтай",
+        "duureg_code": "04",
+        "duureg_name": "Алтай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8584,8 +8584,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Булган",
+        "duureg_code": "07",
+        "duureg_name": "Булган",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8614,8 +8614,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Чандмань",
+        "duureg_code": "46",
+        "duureg_name": "Чандмань",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8644,8 +8644,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Жаргалант",
+        "duureg_code": "01",
+        "duureg_name": "Жаргалант",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8698,8 +8698,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Буянт",
+        "duureg_code": "10",
+        "duureg_name": "Буянт",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8724,8 +8724,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Дарви",
+        "duureg_code": "13",
+        "duureg_name": "Дарви",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8750,8 +8750,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Дөргөн",
+        "duureg_code": "16",
+        "duureg_name": "Дөргөн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8772,8 +8772,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Дуут",
+        "duureg_code": "19",
+        "duureg_name": "Дуут",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8794,8 +8794,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Манхан",
+        "duureg_code": "25",
+        "duureg_name": "Манхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8824,8 +8824,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Мянгад",
+        "duureg_code": "34",
+        "duureg_name": "Мянгад",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8850,8 +8850,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Мөнххайрхан",
+        "duureg_code": "28",
+        "duureg_name": "Мөнххайрхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8872,8 +8872,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Зэрэг",
+        "duureg_code": "22",
+        "duureg_name": "Зэрэг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8898,8 +8898,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Мөст",
+        "duureg_code": "31",
+        "duureg_name": "Мөст",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8924,8 +8924,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Үенч",
+        "duureg_code": "37",
+        "duureg_name": "Үенч",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8950,8 +8950,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Ховд",
+        "duureg_code": "40",
+        "duureg_name": "Ховд",
         "khoroos": [
           {
             "bag_code": "51",
@@ -8976,8 +8976,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Эрдэнэбүрэн",
+        "duureg_code": "49",
+        "duureg_name": "Эрдэнэбүрэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9002,8 +9002,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Цэцэг",
+        "duureg_code": "43",
+        "duureg_name": "Цэцэг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9032,10 +9032,10 @@
   {
     "aimag_code": "85",
     "aimag_name_mn": "Увс",
-    "districts": [
+    "duurguud": [
       {
-        "district_code": "55",
-        "district_name": "Цагаанхайрхан",
+        "duureg_code": "55",
+        "duureg_name": "Цагаанхайрхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9056,8 +9056,8 @@
         ]
       },
       {
-        "district_code": "01",
-        "district_name": "Улаангом",
+        "duureg_code": "01",
+        "duureg_name": "Улаангом",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9110,8 +9110,8 @@
         ]
       },
       {
-        "district_code": "04",
-        "district_name": "Баруунтуруун",
+        "duureg_code": "04",
+        "duureg_name": "Баруунтуруун",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9132,8 +9132,8 @@
         ]
       },
       {
-        "district_code": "07",
-        "district_name": "Бөхмөрөн",
+        "duureg_code": "07",
+        "duureg_name": "Бөхмөрөн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9150,8 +9150,8 @@
         ]
       },
       {
-        "district_code": "10",
-        "district_name": "Давст",
+        "duureg_code": "10",
+        "duureg_name": "Давст",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9168,8 +9168,8 @@
         ]
       },
       {
-        "district_code": "19",
-        "district_name": "Зүүнхангай",
+        "duureg_code": "19",
+        "duureg_name": "Зүүнхангай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9190,8 +9190,8 @@
         ]
       },
       {
-        "district_code": "16",
-        "district_name": "Зүүнговь",
+        "duureg_code": "16",
+        "duureg_name": "Зүүнговь",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9216,8 +9216,8 @@
         ]
       },
       {
-        "district_code": "22",
-        "district_name": "Малчин",
+        "duureg_code": "22",
+        "duureg_name": "Малчин",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9238,8 +9238,8 @@
         ]
       },
       {
-        "district_code": "13",
-        "district_name": "Завхан",
+        "duureg_code": "13",
+        "duureg_name": "Завхан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9260,8 +9260,8 @@
         ]
       },
       {
-        "district_code": "25",
-        "district_name": "Наранбулаг",
+        "duureg_code": "25",
+        "duureg_name": "Наранбулаг",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9282,8 +9282,8 @@
         ]
       },
       {
-        "district_code": "31",
-        "district_name": "Өмнөгөвь",
+        "duureg_code": "31",
+        "duureg_name": "Өмнөгөвь",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9308,8 +9308,8 @@
         ]
       },
       {
-        "district_code": "28",
-        "district_name": "Өлгий",
+        "duureg_code": "28",
+        "duureg_name": "Өлгий",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9330,8 +9330,8 @@
         ]
       },
       {
-        "district_code": "40",
-        "district_name": "Тариалан",
+        "duureg_code": "40",
+        "duureg_name": "Тариалан",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9360,8 +9360,8 @@
         ]
       },
       {
-        "district_code": "34",
-        "district_name": "Өндөрхангай",
+        "duureg_code": "34",
+        "duureg_name": "Өндөрхангай",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9386,8 +9386,8 @@
         ]
       },
       {
-        "district_code": "37",
-        "district_name": "Сагил",
+        "duureg_code": "37",
+        "duureg_name": "Сагил",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9412,8 +9412,8 @@
         ]
       },
       {
-        "district_code": "43",
-        "district_name": "Түргэн",
+        "duureg_code": "43",
+        "duureg_name": "Түргэн",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9430,8 +9430,8 @@
         ]
       },
       {
-        "district_code": "46",
-        "district_name": "Тэс",
+        "duureg_code": "46",
+        "duureg_name": "Тэс",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9476,8 +9476,8 @@
         ]
       },
       {
-        "district_code": "49",
-        "district_name": "Ховд",
+        "duureg_code": "49",
+        "duureg_name": "Ховд",
         "khoroos": [
           {
             "bag_code": "51",
@@ -9498,8 +9498,8 @@
         ]
       },
       {
-        "district_code": "52",
-        "district_name": "Хяргас",
+        "duureg_code": "52",
+        "duureg_name": "Хяргас",
         "khoroos": [
           {
             "bag_code": "51",
