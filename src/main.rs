@@ -41,13 +41,13 @@ fn extract_and_save<T: serde::Serialize>(
         .filter_map(|element| data_mapper(&element))
         .collect();
 
-    let output_dir = Path::new("out");
+    let output_dir = Path::new("test");
     if !output_dir.exists() {
         fs::create_dir_all(output_dir)?;
     }
 
     let json_string = serde_json::to_string_pretty(&json_data)?;
-    fs::write(format!("out/{}.json", output_file_name), json_string)?;
+    fs::write(format!("test/{}.json", output_file_name), json_string)?;
 
     println!("JSON data saved to {}.json", output_file_name);
     Ok(())
@@ -90,11 +90,11 @@ fn main() -> Result<(), Box<dyn Error>> {
         let cells = element
             .select(&Selector::parse("td").unwrap())
             .collect::<Vec<_>>();
-        if cells.len() >= 4 {
+        if cells.len() >= 2 {
             Some(SumDuuregData {
-                duureg_code: cells[1].text().collect::<String>().trim().to_string(),
-                duureg_name: cells[2].text().collect::<String>().trim().to_string(),
-                aimag_name_mn: cells[3].text().collect::<String>().trim().to_string(),
+                duureg_code: cells[0].text().collect::<String>().trim().to_string(),
+                duureg_name: cells[1].text().collect::<String>().trim().to_string(),
+                aimag_name_mn: cells[2].text().collect::<String>().trim().to_string(),
             })
         } else {
             None
